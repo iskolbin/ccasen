@@ -2,10 +2,8 @@
 title: Отдел математического моделирования гетерогенных систем 
 email: kristal83@mail.ru
 description: > # this means to ignore newlines until "baseurl:"
-  #  Write an awesome description for your new site here. You can edit this
-  #line in _config.yml. It will appear in your document head meta (for
-  #Google search results) and in your feed.xml site description.
-  
+  Адрес: 119333, г. Москва, ул. Вавилова, д.42, комн. 464-471
+  Телефоны: (499)135-52-09 (комн. 464, 468) 
 baseurl: "/ccas/" # the subpath of your site, e.g. /blog/
 url: "http://iskolbin.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
