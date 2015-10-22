@@ -4,7 +4,7 @@ email: kristal83@mail.ru
 description: > # this means to ignore newlines until "baseurl:"
   Адрес: 119333, г. Москва, ул. Вавилова, д.42, комн. 464-471
   Телефоны: (499)135-52-09 (комн. 464, 468) 
-baseurl: "/ccas/" # the subpath of your site, e.g. /blog/
+baseurl: "/ccas" # the subpath of your site, e.g. /blog/
 url: "http://iskolbin.github.io" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 #github_username:  jekyll
