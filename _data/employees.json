@@ -1,0 +1,12 @@
+{
+	"fesechko_a_i": {
+		"firstname": "Анатолий",
+		"surname": "Фесечко",
+		"patronymic": "Иванович",
+		"email": "fesechko_anatoli@mail.ru",
+		"homephone": "+7(495)458-09-43", 
+		"cellphone": "+7(916)321-96-15",
+		"publications": ["2001_1", "2008_1"],
+		"photo": "employees/fesechko_a_i.png" 
+	}
+}
