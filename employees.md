@@ -18,7 +18,7 @@ permalink: /employees/
  {% endif %}
  </h2>
  <div class="TextShower-text">
- <p align="center"><img src="/ccas/img/employees/{{name}}.jpg"></img></p>
+ <p align="center"><img src="{{site.baseurl}}/img/employees/{{name}}.jpg"></img></p>
  {% if site.data.bio[name].plain %} <p>{{site.data.bio[name].plain }}</p> {% endif %} 
  {% if emp.email %}<p>e-mail <a href="mailto:{{emp.email}}">{{emp.email}}</a></p>{% endif %}
  {% if emp.homephone %} <p>тел. {{emp.homephone}} (дом.) </p> {% endif %}
