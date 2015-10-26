@@ -22,7 +22,7 @@ permalink: /publications/
    {{auth}}
   {% endif %}
    {% unless forloop.last %},{% endunless %}
-  {% endfor %} {{pub.authors | join:','}} «{{pub.name}}». — {{pub.origin}}: {{pub.journal}}, {{pub.year}}. — c.{{pub.pages | join: '-'}}
+  {% endfor %} «{{pub.name}}». — {{pub.origin}}: {{pub.journal}}, {{pub.year}}. — c.{{pub.pages | join: '-'}}
 	</li>
 {% endfor %}
 </ol>
