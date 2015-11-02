@@ -1,0 +1,60 @@
+{
+	"art2012_1": {
+		"name": "Компьютерное моделирование и экспериментальное исследование кристаллического строения и электронных свойств нанопленок InN/Si, GaN/Si",
+		"authors": ["abgaryan_k_k", "bazhanov_d_i", "Михеев С.Ю", "mitigullin_i_v", "Рыжов Ю.А."],
+		"year": 2012,
+		"journal": "звестия Российской академии наук. Серия физическая",
+		"number": "Т.76 (6)",
+		"year": 2012,
+		"pages": [696,698],
+		"origin": "Из-во: Наука. ISSN  0367-6765",
+		"tag": "ref"
+	},
+
+	"art2012_2": {
+		"name": "Суперкомпьютерное моделирование многослойных полупроводниковых наноструктур",
+		"authors": ["abgaryan_k_k", "mitigullin_i_v"],
+		"year": 2012,
+		"journal": "Изд-во Московского университета, альманах «Суперкомпьютерные технологии в науке, образовании и промышленности»",
+		"pages": [211,218],
+		"tag": "rec"
+	},
+
+	"art2012_3": {
+		"name": "Multiscale computational model of nitride semiconductor nanostructures",
+		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mitigullin_i_v"],
+		"year": 2012,
+		"journal": "Materials Science & Technology. Advanced Materials Research. Elsevier",
+		"number": "Vols. 560-561",
+		"pages": [1133,1137],
+		"lang": "en",
+		"tag": "rec"
+	},
+
+	"art2012_4": {
+		"name": "Computer simulation and experimental investigation of the crystal structure and electronic properties of InN/Si and GaN/Si thin films",
+		"authors": ["abgaryan_k_k", "bazhanov_d_i", "Mikjeev S.Yu.", "mitigullin_i_v", "Ryzhov Yu.A."],
+		"journal": "Bulletin of the Russian Academy of Sciences Physics 76(6). DOI: 10.3103/S1062873812060032",
+		"year": 2012,
+		"number": "Volume 76, Issue 6",
+		"pages": [696,698],
+		"lang": "en"
+	},
+
+	"th2012_1": {
+		"name": "Применение параллельных вычислений и метода молекулярной динамики для моделирования роста многослойных полупроводниковых наноструктур",
+		"authors": ["abgaryan_k_k", "Быков Н.В.", "mitigullin_i_v"],
+		"year": 2012,
+		"conference": "Материалы IX междунарнодной конференции по неравновесным процессам в соплах и струях (NPNJ 2012), 25-31 мая 2012 г., Алушта",
+	 "pages": [457,459],
+	 "origin": "М.: Изд-во МАИ"
+	},
+
+	"th2012_2": {
+		"name": "Математическое моделирование наноразмерных электронных структур с заданными свойствами",
+		"authors": ["abgaryan_k_k", "Михеев С.Ю.", "Харченко В.С."],
+		"year": 2012,
+		"conference": "Книга тезисов IX Международной конференции «Кремний -2012», Санкт-Петербург 9-13 июля, 2012",
+		"pages": [140]
+	}
+}

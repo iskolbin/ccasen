@@ -6,9 +6,8 @@ permalink: /employees/
 {% for empl in site.data.employees %}
  {% assign name = empl[0] %}
  {% assign emp = empl[1] %}
- <div class="TextShower-box">
- {% if site.data.employees[name] %}<a name="{{ name }}"></a>{% endif %}
- <h2 class="TextShower-title">
+ <a name="{{ name }}"></a>
+ <h2>
  {% if emp.fullname %}
   {{emp.fullname}}
  {% else %}
@@ -17,8 +16,7 @@ permalink: /employees/
   {% if emp.surname %} {{emp.surname}} {% endif %}
  {% endif %}
  </h2>
- <div class="TextShower-text">
- <p align="center"><img src="{{site.baseurl}}/img/employees/{{name}}.jpg"></img></p>
+ {% if emp.image %} <p align="center"><img src="{{site.baseurl}}/img/employees/{{emp.image}}"></img></p> {% endif } 
  {% if site.data.bio[name].plain %} <p>{{site.data.bio[name].plain }}</p> {% endif %} 
  {% if emp.email %}<p>e-mail <a href="mailto:{{emp.email}}">{{emp.email}}</a></p>{% endif %}
  {% if emp.homephone %} <p>тел. {{emp.homephone}} (дом.) </p> {% endif %}
@@ -52,7 +50,5 @@ permalink: /employees/
    {% endfor %}
     «{{pub.name}}». — {{pub.origin}}: {{pub.journal}}, {{pub.year}}. — c.{{pub.pages | join: '-'}}
    </li>
-   </div>
-   </div>
   {% endfor %}</ol>
 {% endfor %}

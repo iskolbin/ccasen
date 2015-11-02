@@ -1,12 +1,73 @@
 {
-	"fesechko_a_i": {
-		"firstname": "Анатолий",
-		"surname": "Фесечко",
-		"patronymic": "Иванович",
-		"email": "fesechko_anatoli@mail.ru",
-		"homephone": "+7(495)458-09-43", 
-		"cellphone": "+7(916)321-96-15",
-		"publications": ["2001_1", "2008_1"],
-		"photo": "employees/fesechko_a_i.png" 
-	}
+	"abgaryan_k_k": {
+		"firstname": "Каринэ",
+		"surname": "Абгарян",
+		"patronymic": "Карленована",
+	},
+
+	"harchenko_v_a": {
+		"surname": "Харченко",
+	 	"firstname": "Вячеслав",
+	 	"patronymic": "Александрович",
+	},
+
+	"bazhanov_d_i": {
+		"surname": "Бажанов",
+	 	"firstname": "Дмитрий",
+		"patronymic": "Игоревич",
+	},
+
+	"reviznikov_d_l": {
+		"surname": "Ревизников",
+		"firstname": "Дмитрий",
+		"patronymic": "Леонидович",
+	},
+
+	"mitigullin_i_v": {
+		"surname": "Мутигуллин",
+	 	"firstname": "Илья", 
+		"patronymic": "Васильевич",
+	},
+
+	"zagordan_n_l": {
+		"surname": "Загордан",
+	 	"firstname": "Надежда",
+		"patronymic": "Леонидовна",
+	},
+
+	"kolbin_i_s": {
+		"surname": "Колбин",
+		"firstname": "Илья",
+		"patronymic": "Сергеевич",
+	},
+
+	"gavrilov_e_s": {
+		"surname": "Гаврилов",
+		"firstname": "Евгений",
+		"patronymic": "Сергеевич",
+	},
+
+	"sechenikh_p_a": {
+		"surname": "Сеченых",
+		"firstname": "Полина",
+	 	"patronymic":	"Алексеевна",
+	},
+
+	"volodina_o_v": {
+		"surname": "Володина",
+	 	"firstname": "Ольга",
+		"patronymic": "Влалимировна",
+	},
+
+	"uvarov_s_i": {
+		"surname": "Уваров",
+		"firstname": "Сергей",
+	 	"patronymic":	"Игоревич",
+	},
+
+	"kirichenko_m_v": {
+		"surname": "Кириченко",
+	 	"firstname": "Марина",
+	 	"patronymic":	"Владимировна",
+	},
 }
