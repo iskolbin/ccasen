@@ -1,9 +1,9 @@
 {
 	"art2014_1": {
 		"name": "Объектно-реляционная архитектура информационной поддержки многомасштабной схемы расчёта многослойной полупроводниковой наноструктуры",
-		"authors": ["abgaryan_k_k", "Супрядкина И.А.", "Сеченых П.А."],
+		"authors": ["abgaryan_k_k", "Супрядкина И.А.", "sechenykh_p_a"],
 		"journal": "Известия вузов. Материалы электронной техники",
-		"number": "Т. 17, №3",
+		"number": "Т.17, №3",
 		"year": 2014,
 		"issn": "ISSN 1609–3577",
 		"tag": "ref"
@@ -13,6 +13,116 @@
 		"name": "Применение оптимизационных методов для решения задач параметрической идентификации потенциалов межатомного взаимодействия",
 		"authors": ["abgaryan_k_k", "Посыпкин М.А."],
 		"year": 2014,
-		"number": "Т. 54"
-	}	
+		"number": "Т.54, №12",
+		"pages": [1994,2001],
+		"tag": "ref"
+	},
+
+	"art2014_3": {
+		"name": "Optimization Methods as Applied to Parametric Identification of Interatomic Potentials",
+		"authors": ["abgaryan_k_k", "Posypkin M.A."],
+		"journal": "Computational Mathematics and Mathematical Physics",
+		"year": 2014,
+		"number": "Vol.54, №12",
+		"pages": [1929,1935],
+		"tag": "rec",
+		"lang": "en"
+	},
+
+	"art2014_4": {
+		"name": "AB initio study of macroscopic polarization of AlN, GaN and AlGaN",
+		"authors": ["abgaryan_k_k", "bazhanov_d_i", "mitigullin_i_v", "Supryadkina I.A."],
+		"year": 2014,
+		"journal": "Phys.Status Solidi",
+		"number": "С11, №2",
+		"pages": [307,311],
+		"lang": "en"
+	},
+
+	"art2014_5": {
+		"name": "Информационная поддержка задач компьютерного моделирования высокоскоростного взаимодействия твердых телИнформационная поддержка задач компьютерного моделирования высокоскоростного взаимодействия твердых тел",
+		"authors": ["abgaryan_k_k", "gavrylov_e_s", "Марасанов А.М."],
+		"journal": "International Journal of Open Information Technologies",
+		"year": 2014,
+		"number": "Т.2, №12",
+		"tag": "rinc"
+	},
+
+	"art2014_6": {
+		"name": "Программный комплекс для решения задач параметрической идентификации потенциалов межатомного взаимодействия",
+		"authors": ["abgaryan_k_k", "Посыпкин М.А."],
+		"journal": "International Journal of Open Information Technologies",
+		"year": 2014,
+		"number": "№11",
+		"tag": "rinc"
+	},
+
+	"th2014_1": {
+		"name": "Библиографический репозиторий системы информационной поддержки задач кристаллографии",
+		"authors": ["abgaryan_k_k", "Марасанов А.М.", "sechenykh_p_a"],
+		"conference": "Материалы X Международной конференции по неравновесным процессам в соплах и струях (NPNJ’2014) 25-31 мая 2014 г., Алушта",
+		"year": 2014,
+		"pages": [455,456]
+	},
+
+	"th2014_2": {
+		"name": "Application of optimization methods for the solution of the material science problems",
+		"authors": ["abgaryan_k_k"],
+		"conference": "Abstracts.V International conference «Optimization and applications» (Optima-2014), Petrovac. Montenegro",
+		"pages": [14,15],
+		"year": 2014
+	},
+
+	"th2014_3": {
+		"name": "Теоретическое исследование из первых принципов адсорбции атомарного азота на поверхности сапфира",
+		"authors": ["abgaryan_k_k", "mitigullin_i_v"],
+		"year": 2014,
+		"conference": "Сборник тезисов докладов НСКФ-2014. http://2014.nscf.ru/nauchno-prakticheskaya-konferenciya/tezisy-dokladov/"
+	},
+
+	"th2014_4": {
+		"name": "Применение грид-систем из персональных компьютеров для решения задач параметрической идентификации потенциалов межатомного взаимодействия",
+		"authors": ["abgaryan_k_k", "Посыпкин М.А."],
+		"year": 2014,
+		"conference": "Сборник тезисов докладов НСКФ-2014. http://2014.nscf.ru/nauchno-prakticheskaya-konferenciya/tezisy-dokladov/"
+	},
+
+	"th2014_5": {
+		"name": "Применение высокопроизводительных вычислений для решения задач оптимизации при многоуровневом моделировании полупроводниковых наноструктур",
+		"authors": ["abgaryan_k_k"],
+		"year": 2014,
+		"conference": "Сборник тезисов докладов НСКФ-2014. http://2014.nscf.ru/nauchno-prakticheskaya-konferenciya/tezisy-dokladov/"
+	},
+
+	"th2014_6": {
+		"name": "Многомасштабное моделирование распределения и подвижности носителей заряда в полупроводниковых гетероструктруктурах",
+		"authors": ["abgaryan_k_k", "mitigullin_i_v", "revizinkov_d_l"],
+		"year": 2014,
+		"conference": "Тезисы докладов Международной конференции  «Современные проблемы вычислительной математики и математической физики». Москва. 2014",
+		"pages": [68,70]
+	},
+
+	"th2014_7": {
+		"name": "Computational model of 2DEG mobility in the AlGaN/GaN heterostructures",
+		"authors": ["abgaryan_k_k", "mitigullin_i_v", "revizinkov_d_l"],
+		"year": 2014,
+		"conference": "E-MRS Spring Meeting 2014. K-8",
+		"lang": "en"
+	},
+
+	"th2014_8": {
+		"name": "Information support of the multiscale computational scheme of multilayer semiconductor nanostructures",
+		"authors": ["abgaryan_k_k", "Marasanov A.M", "sechenykh_p_a"],
+		"conference": "E-MRS Spring Meeting 2014. I-20",
+		"year": 2014
+	},
+
+	"th2014_9": {
+		"name": "Объектно-реляционная система информационной поддержки многомасштабной схемы расчёта многослойной полупроводниковой наноструктуры",
+		"authors": ["abgaryan_k_k", "sechenykh_p_a"],
+		"conference": "Молодёжная научно-практическая конференция «Инновации в авиации и космонавтике – 2014». Сборник тезисов докладов",
+		"origin": "М.:ООО «Принт-салон»",	
+		"year": 2014,
+		"pages": [177,178]
+	}
 }
