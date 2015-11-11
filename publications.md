@@ -4,7 +4,9 @@ title: Публикации
 permalink: /publications/
 ---
 <ol>
-{% for pubs in site.data.publications %}
+{% for pubyear in site.data.pubs %}
+{% assign publications = pubyear[1] %}
+{% for pubs in publications %}
 {% assign pub = pubs[1] %}
 <li>
  {% for auth in pub.authors %}
@@ -24,5 +26,6 @@ permalink: /publications/
    {% unless forloop.last %},{% endunless %}
   {% endfor %} «{{pub.name}}». — {{pub.origin}}: {{pub.journal}}, {{pub.year}}. — c.{{pub.pages | join: '-'}}
 	</li>
+{% endfor %}
 {% endfor %}
 </ol>
