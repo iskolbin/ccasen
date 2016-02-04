@@ -1,53 +1,117 @@
 {
 	"abgaryan_k_k": {
-		"firstname": "Каринэ",
 		"surname": "Абгарян",
+		"firstname": "Каринэ",
 		"patronymic": "Карленована",
 		
 		"cellphone": "+7(903)108-03-40",
-		"email": "kristal83@mail.ru"
+		"email": "kristal83@mail.ru",
+
+		"translate":{
+		  "en": {
+				"surname": "Abgaryan",
+				"firstname": "Karine",
+				"patronymic": "Karlenovna"
+			}
+		}
 	},
 
 	"harchenko_v_a": {
 		"surname": "Харченко",
 	 	"firstname": "Вячеслав",
 	 	"patronymic": "Александрович",
+		
+		"translate":{
+		  "en": {
+				"surname": "Harchenko",
+				"firstname": "Vyacheslav",
+				"patronymic": "Aleksandrovich"
+			}
+		}
 	},
 
 	"bazhanov_d_i": {
 		"surname": "Бажанов",
 	 	"firstname": "Дмитрий",
 		"patronymic": "Игоревич",
+		
+		"translate":{
+		  "en": {
+				"surname": "Bazhanov",
+				"firstname": "Dmitry",
+				"patronymic": "Igorevich"
+			}
+		}
 	},
 
 	"reviznikov_d_l": {
 		"surname": "Ревизников",
 		"firstname": "Дмитрий",
 		"patronymic": "Леонидович",
+		
+		"translate":{
+		  "en": {
+				"surname": "Reviznikov",
+				"firstname": "Dmitry",
+				"patronymic": "Leonidovich"
+			}
+		}
 	},
 
 	"mitigullin_i_v": {
 		"surname": "Мутигуллин",
 	 	"firstname": "Илья", 
 		"patronymic": "Васильевич",
+		
+		"translate":{
+		  "en": {
+				"surname": "Mitigullin",
+				"firstname": "Ilya",
+				"patronymic": "Vasilyevich"
+			}
+		}
 	},
 
 	"zagordan_n_l": {
 		"surname": "Загордан",
 	 	"firstname": "Надежда",
 		"patronymic": "Леонидовна",
+		
+		"translate":{
+		  "en": {
+				"surname": "Zagordan",
+				"firstname": "Nadezhda",
+				"patronymic": "Leonidovna"
+			}
+		}
 	},
 
 	"kolbin_i_s": {
 		"surname": "Колбин",
 		"firstname": "Илья",
 		"patronymic": "Сергеевич",
+		
+		"translate":{
+		  "en": {
+				"surname": "Kolbin",
+				"firstname": "Ilya",
+				"patronymic": "Sergeevich"
+			}
+		}
 	},
 
 	"gavrilov_e_s": {
 		"surname": "Гаврилов",
 		"firstname": "Евгений",
 		"patronymic": "Сергеевич",
+		
+		"translate":{
+		  "en": {
+				"surname": "Gavrilov",
+				"firstname": "Eugeniy",
+				"patronymic": "Sergeevich"
+			}
+		}
 	},
 
 	"sechenykh_p_a": {
@@ -56,23 +120,55 @@
 	 	"patronymic":	"Алексеевна",
 	
 		"cellphone": "+7(967)029-84-20",
+		
+		"translate":{
+		  "en": {
+				"surname": "Sechenikh",
+				"firstname": "Polina",
+				"patronymic": "Alekseevna"
+			}
+		}
 	},
 
 	"volodina_o_v": {
 		"surname": "Володина",
 	 	"firstname": "Ольга",
 		"patronymic": "Влалимировна",
+		
+		"translate":{
+		  "en": {
+				"surname": "Volodina",
+				"firstname": "Olga",
+				"patronymic": "Vladimirovna"
+			}
+		}
 	},
 
 	"uvarov_s_i": {
 		"surname": "Уваров",
 		"firstname": "Сергей",
 	 	"patronymic":	"Игоревич",
+		
+		"translate":{
+		  "en": {
+				"surname": "Uvarov",
+				"firstname": "Sergey",
+				"patronymic": "Igorevich"
+			}
+		}
 	},
 
 	"kirichenko_m_v": {
 		"surname": "Кириченко",
 	 	"firstname": "Марина",
 	 	"patronymic":	"Владимировна",
-	},
+		
+		"translate":{
+		  "en": {
+				"surname": "Kirichenko",
+				"firstname": "Marina",
+				"patronymic": "Vladimirovna"
+			}
+		}
+	}
 }

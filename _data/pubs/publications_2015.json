@@ -61,10 +61,11 @@
 
 	"art2015_7": {
 		"name": "Computational model of 2DEG mobility in the AlGaN/GaN heterostructures",
-		"authors": ["abgaryan_k_k", "mitigullin_i_v", "revizinkov_d_l"],
+		"authors": ["abgaryan_k_k", "mitigullin_i_v", "reviznikov_d_l"],
 		"journal": "Phys.Status Solidi",
 		"number": "C11, №2",
 		"year": 2015,
+		"lang": "en",
 		"pages": [407,411],
 		"tag": "rec"
 	},
@@ -82,7 +83,7 @@
 		"authors": ["abgaryan_k_k", "volodina_o_v", "uvarov_s_i"],
 		"year": 2015,
 		"conference": "Материалы XVIII Международной конференции по вычислительной механике и современным прикладным программным системам (ВМСППС’2015) 24-31 мая 2015 г., Алушта",
-		"pages": [27,29, 29,31]
+		"mpages": ["27-29", "29-31"]
 	},
 
 	"th2015_3": {
@@ -90,7 +91,7 @@
 		"authors": ["abgaryan_k_k", "Журавлев А.А.", "reviznikov_d_l"],
 		"year": 2015,
 		"conference": "Материалы XVIII Международной конференции по вычислительной механике и современным прикладным программным системам (ВМСППС’2015) 24-31 мая 2015 г., Алушта",
-		"pages": [27,29, 31,32]
+		"mpages": ["27-29", "31-32"]
 	},
 
 	"th2015_4": {

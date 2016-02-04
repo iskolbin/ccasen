@@ -27,28 +27,4 @@ permalink: /employees/
  <h3>Биография</h3> 
   <p>{{site.data.bio[name].detailed}}</p>
  {% endif %} 
- <h3>Публикации</h3>
- <ol>
-  {% for pubid in emp.publications %}
-   {% assign pub = site.data.publications[pubid] %}
-   <li>
-	 {% for auth in pub.authors %}
-    {% if site.data.employees[auth] %}
-     {% assign author = site.data.employees[auth] %}
-     <a href="#{{ name }}"> 
- 		 {% if author.shortname %}
-      {{author.shortname}}
-     {% else %}
-      {% if author.surname %} {{author.surname}} {% endif %}
-      {% if author.firstname %}{{author.firstname | truncate:1,''}}.{% endif %}{% if author.patronymic %}{{author.patronymic | truncate:1,''}}.{% endif %}
-     {% endif %}
-     </a>
-    {% else %}
-     {{auth}}
-    {% endif %}
-    {% unless forloop.last %},{% endunless %}
-   {% endfor %}
-    «{{pub.name}}». — {{pub.origin}}: {{pub.journal}}, {{pub.year}}. — c.{{pub.pages | join: '-'}}
-   </li>
-  {% endfor %}</ol>
 {% endfor %}

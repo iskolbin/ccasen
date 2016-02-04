@@ -36,7 +36,8 @@
 		"year": 2013,
 		"journal": "Journal of Surface Investigation. X-ray. Synchrotron and Neutron Techniques",
 		"number": "Vol. 7, Issue 1",
-		"pages": [76,80]
+		"pages": [76,80],
+		"lang": "en"
 	},
 
 	"th2013_1": {
@@ -84,7 +85,8 @@
 		"authors": ["abgaryan_k_k"],
 		"conference": "Abstracts.IV International conference «Optimization and applications» (Optima-2013), Petrovac. Montenegro",
 		"year": 2013,
-		"pages": [13,15]
+		"pages": [13,15],
+		"lang": "en"
 	},
 
 	"th2013_7": {
