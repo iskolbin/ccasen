@@ -7,7 +7,7 @@ permalink: /employees/
  {% assign name = empl[0] %}
  {% assign emp = empl[1] %}
  <a name="{{ name }}"></a>
- <h2>
+ <h3>
  {% if emp.fullname %}
   {{emp.fullname}}
  {% else %}
@@ -15,7 +15,7 @@ permalink: /employees/
   {% if emp.patronymic %} {{emp.patronymic}} {% endif %}
   {% if emp.surname %} {{emp.surname}} {% endif %}
  {% endif %}
- </h2>
+ </h3>
  {% if emp.image %} <p align="center"><img src="{{site.baseurl}}/img/employees/{{emp.image}}"></img></p> {% endif %} 
  {% if site.data.bio[name].plain %} <p>{{site.data.bio[name].plain }}</p> {% endif %} 
  {% if emp.email %}<p>e-mail <a href="mailto:{{emp.email}}">{{emp.email}}</a></p>{% endif %}
@@ -27,4 +27,5 @@ permalink: /employees/
  <h3>Биография</h3> 
   <p>{{site.data.bio[name].detailed}}</p>
  {% endif %} 
+ ---
 {% endfor %}

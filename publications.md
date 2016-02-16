@@ -6,7 +6,7 @@ permalink: /publications/
 <ol>
 {% assign sortedpubs = site.data.pubs | sort: pubyear[0] %}
 {% for pubyear in sortedpubs %}
-<h2>{{pubyear[0] | remove: 'publications_'}}</h2> 
+<h3>{{pubyear[0] | remove: 'publications_'}}</h3>
 {% assign publications = pubyear[1] %}
 {% for pubs in publications %}
 {% assign pub = pubs[1] %}
@@ -35,5 +35,6 @@ permalink: /publications/
   {% endfor %} «{{pub.name}}». — {% if pub.origin %}{{pub.origin}}:{% endif %} {% if pub.journal %}{{pub.journal}},{% endif %}{%if pub.conference %}{{pub.conference}},{% endif %} {{pub.year}}.{% if pub.pages %} — {{p}}{{pub.pages | join: '-'}}{% endif %}{% if pub.mpages %} — {{p}}{{pub.mpages | join: ','}}{% endif %}
 	</li>
 {% endfor %}
+<hr>
 {% endfor %}
 </ol>
