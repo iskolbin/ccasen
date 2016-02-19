@@ -6,7 +6,7 @@ permalink: /publications/
 <ol>
 {% assign sortedpubs = site.data.pubs | sort: pubyear[0] %}
 {% for pubyear in sortedpubs %}
-<h3>{{pubyear[0] | remove: 'publications_'}}</h3>
+<h3><b>{{pubyear[0] | remove: 'publications_'}}</b></h3>
 {% assign publications = pubyear[1] %}
 {% for pubs in publications %}
 {% assign pub = pubs[1] %}
