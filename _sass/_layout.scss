@@ -12,11 +12,13 @@
 
 .site-title {
     font-size: 24px;
-		font-family: "HelveticaNeue-CondensedBold";
+		font-color: $title-font-color;
+		font-family: "Sans";
 		line-height: 32px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+		background-color: $title-background-color;
 
     &,
     &:visited {
@@ -27,15 +29,16 @@
 .site-nav {
     float: right;
     line-height: 56px;
+		background-color: $nav-background-color;
 
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        color: $text-color;
+        //color: $text-color;
         line-height: $base-line-height;
-
+				color: $nav-font-color;
         // Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
