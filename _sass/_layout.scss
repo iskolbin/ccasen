@@ -39,7 +39,10 @@
         //color: $text-color;
         line-height: $base-line-height;
 				color: $nav-font-color;
-        // Gaps between nav items, but not on the first one
+        border-radius: 5px;
+				background: #71a9f7;
+				padding: 2px;
+				// Gaps between nav items, but not on the first one
         &:not(:first-child) {
             margin-left: 20px;
         }
