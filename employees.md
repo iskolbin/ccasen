@@ -14,10 +14,10 @@ permalink: /employees/
   {% if emp.firstname %} {{emp.firstname}} {% endif %}
   {% if emp.patronymic %} {{emp.patronymic}} {% endif %}
   {% if emp.surname %} {{emp.surname}} {% endif %}
+ 	{% if emp.degree %} <i>, {{emp.degree}}</i> {% endif %}
+ 	{% if emp.position %} <i>, {{emp.position}}</i> {% endif %}
  {% endif %}
  </h3>
- {% if emp.degree %} <i>, {{emp.degree}}</i> {% endif %}
- {% if emp.position %} <i>, {{emp.position}}</i> {% endif %}
 
 	{% if emp.image %} <p align="center"><img src="{{site.baseurl}}/img/employees/{{emp.image}}"></img></p> {% endif %} 
  {% if site.data.bio[name].plain %} <p>{{site.data.bio[name].plain }}</p> {% endif %} 
