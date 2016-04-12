@@ -3,6 +3,8 @@
 		"surname": "Абгарян",
 		"firstname": "Каринэ",
 		"patronymic": "Карленовна",
+		"position": "зав. отделом",
+		"degree": "к.ф-м.н.",
 
 		"translate":{
 		  "en": {
@@ -17,6 +19,8 @@
 		"surname": "Харченко",
 	 	"firstname": "Вячеслав",
 	 	"patronymic": "Александрович",
+		"position": "старший научный сотрудник",
+		"degree": "д.т.н.",
 		
 		"translate":{
 		  "en": {
@@ -31,6 +35,8 @@
 		"surname": "Бажанов",
 	 	"firstname": "Дмитрий",
 		"patronymic": "Игоревич",
+		"degree": "к.ф-м.н.",
+		"position": "старший научный сотрудник",
 		
 		"translate":{
 		  "en": {
@@ -45,6 +51,8 @@
 		"surname": "Ревизников",
 		"firstname": "Дмитрий",
 		"patronymic": "Леонидович",
+		"degree": "д.ф-м.н.",
+		"position": "ведущий научный сотрудник",
 		
 		"translate":{
 		  "en": {
@@ -59,6 +67,8 @@
 		"surname": "Мутигуллин",
 	 	"firstname": "Илья", 
 		"patronymic": "Васильевич",
+		"degree": "к.ф-м.н.",
+		"position": "старший научный сотрудник",
 		
 		"translate":{
 		  "en": {
@@ -73,6 +83,8 @@
 		"surname": "Загордан",
 	 	"firstname": "Надежда",
 		"patronymic": "Леонидовна",
+		"degree": "к.ф-м.н.",
+		"position": "научный сотрудник",
 		
 		"translate":{
 		  "en": {
@@ -87,6 +99,8 @@
 		"surname": "Колбин",
 		"firstname": "Илья",
 		"patronymic": "Сергеевич",
+		"degree": "к.ф-м.н.",
+		"position": "научный сотрудник",
 		
 		"translate":{
 		  "en": {
@@ -101,6 +115,7 @@
 		"surname": "Гаврилов",
 		"firstname": "Евгений",
 		"patronymic": "Сергеевич",
+		"position": "младший научный сотрудник",
 		
 		"translate":{
 		  "en": {
@@ -115,6 +130,7 @@
 		"surname": "Сеченых",
 		"firstname": "Полина",
 	 	"patronymic":	"Алексеевна",
+		"position": "младший научный сотрудник",
 	
 		"translate":{
 		  "en": {
@@ -129,6 +145,7 @@
 		"surname": "Володина",
 	 	"firstname": "Ольга",
 		"patronymic": "Владимировна",
+		"position": "младший научный сотрудник",
 		
 		"translate":{
 		  "en": {
@@ -143,6 +160,7 @@
 		"surname": "Уваров",
 		"firstname": "Сергей",
 	 	"patronymic":	"Игоревич",
+		"position": "младший научный сотрудник",
 		
 		"translate":{
 		  "en": {
@@ -157,12 +175,29 @@
 		"surname": "Кириченко",
 	 	"firstname": "Марина",
 	 	"patronymic":	"Владимировна",
+		"degree": "к.ф-м.н.",
+		"position": "научный сотрудник",
 		
 		"translate":{
 		  "en": {
 				"surname": "Kirichenko",
 				"firstname": "Marina",
 				"patronymic": "Vladimirovna"
+			}
+		}
+	},
+
+	"zhuravlev_a_a": {
+		"surname": "Журавлёв",
+		"firstname": "Андрей",
+		"patronymic": "Андреевич",
+		"position": "и.о младшего научного сотрудника",
+
+		"translate": {
+			"en": {
+				"surname": "Zhuravlev",
+				"firstname": "Andrew",
+				"patronymic": "Andeevich"
 			}
 		}
 	}
