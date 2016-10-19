@@ -14,7 +14,14 @@
       </a>
 
       <div class="trigger">
-        {% for page in site.pages %}
+				<a class="lang-link" href="http://iskolbin.github.io/ccas/">
+					<svg viewBox="0 0 9 6" width="30" height="20">
+						<rect fill="#fff" width="9" height="3"/>
+						<rect fill="#d52b1e" y="3" width="9" height="3"/>
+						<rect fill="#0039a6" y="2" width="9" height="2"/>
+					</svg>
+				</a>
+				{% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}

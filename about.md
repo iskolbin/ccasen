@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Об отделе
+title: About
 permalink: /about/
 ---

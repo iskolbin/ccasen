@@ -1,8 +1,8 @@
 ---
 layout: page
-title: НОЦ
+title: SEC
 permalink: /noc/
 ---
-<a href="http://www.ccas.ru/kksitevc/index.html">Перейти на сайт НОЦ</a>
+<a href="http://www.ccas.ru/kksitevc/index.html">Goto SEC site(Russian)</a>
 
 

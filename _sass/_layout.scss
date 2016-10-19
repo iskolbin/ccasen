@@ -48,7 +48,13 @@
         }
     }
 
-    @include media-query($on-palm) {
+    .lang-link {
+        line-height: $base-line-height;
+				padding: 10px;
+            margin-left: 20px;
+		}
+    
+		@include media-query($on-palm) {
         position: absolute;
         top: 9px;
         right: 30px;

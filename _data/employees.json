@@ -10,7 +10,9 @@
 		  "en": {
 				"surname": "Abgaryan",
 				"firstname": "Karine",
-				"patronymic": "Karlenovna"
+				"patronymic": "Karlenovna",
+				"position": "Head of Department",
+				"degree": "Ph.D"
 			}
 		}
 	},
@@ -26,7 +28,9 @@
 		  "en": {
 				"surname": "Harchenko",
 				"firstname": "Vyacheslav",
-				"patronymic": "Aleksandrovich"
+				"patronymic": "Aleksandrovich",
+				"position": "Senior Researcher",
+				"degree": "Dr.S"
 			}
 		}
 	},
@@ -42,7 +46,9 @@
 		  "en": {
 				"surname": "Bazhanov",
 				"firstname": "Dmitry",
-				"patronymic": "Igorevich"
+				"patronymic": "Igorevich",
+				"position": "Senior Researcher",
+				"degree": "Ph.D"
 			}
 		}
 	},
@@ -58,7 +64,9 @@
 		  "en": {
 				"surname": "Reviznikov",
 				"firstname": "Dmitry",
-				"patronymic": "Leonidovich"
+				"patronymic": "Leonidovich",
+				"position": "Leading Researcher",
+				"degree": "Dr.S"
 			}
 		}
 	},
@@ -74,7 +82,9 @@
 		  "en": {
 				"surname": "Mitigullin",
 				"firstname": "Ilya",
-				"patronymic": "Vasilyevich"
+				"patronymic": "Vasilyevich",
+				"position": "Senior Researcher",
+				"degree": "Ph.D"
 			}
 		}
 	},
@@ -90,7 +100,9 @@
 		  "en": {
 				"surname": "Zagordan",
 				"firstname": "Nadezhda",
-				"patronymic": "Leonidovna"
+				"patronymic": "Leonidovna",
+				"position": "Researcher",
+				"degree": "Ph.D"
 			}
 		}
 	},
@@ -106,7 +118,9 @@
 		  "en": {
 				"surname": "Kolbin",
 				"firstname": "Ilya",
-				"patronymic": "Sergeevich"
+				"patronymic": "Sergeevich",
+				"position": "Researcher",
+				"degree": "Ph.D"
 			}
 		}
 	},
@@ -121,7 +135,8 @@
 		  "en": {
 				"surname": "Gavrilov",
 				"firstname": "Eugeniy",
-				"patronymic": "Sergeevich"
+				"patronymic": "Sergeevich",
+				"position": "Junior Researcher"
 			}
 		}
 	},
@@ -136,7 +151,8 @@
 		  "en": {
 				"surname": "Sechenikh",
 				"firstname": "Polina",
-				"patronymic": "Alekseevna"
+				"patronymic": "Alekseevna",
+				"position": "Junior Researcher"
 			}
 		}
 	},
@@ -151,7 +167,8 @@
 		  "en": {
 				"surname": "Volodina",
 				"firstname": "Olga",
-				"patronymic": "Vladimirovna"
+				"patronymic": "Vladimirovna",
+				"position": "Junior Researcher"
 			}
 		}
 	},
@@ -166,7 +183,8 @@
 		  "en": {
 				"surname": "Uvarov",
 				"firstname": "Sergey",
-				"patronymic": "Igorevich"
+				"patronymic": "Igorevich",
+				"position": "Junior Researcher"
 			}
 		}
 	},
@@ -182,7 +200,9 @@
 		  "en": {
 				"surname": "Kirichenko",
 				"firstname": "Marina",
-				"patronymic": "Vladimirovna"
+				"patronymic": "Vladimirovna",
+				"degree": "Ph.D",
+				"position": "Researcher"
 			}
 		}
 	},
@@ -197,7 +217,8 @@
 			"en": {
 				"surname": "Zhuravlev",
 				"firstname": "Andrew",
-				"patronymic": "Andeevich"
+				"patronymic": "Andeevich",
+				"position": "Junior Researcher"
 			}
 		}
 	}
