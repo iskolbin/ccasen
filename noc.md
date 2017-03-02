@@ -3,6 +3,6 @@ layout: page
 title: SEC
 permalink: /noc/
 ---
-<a href="http://www.ccas.ru/kksitevc/index.html">Goto SEC site(Russian)</a>
+<a href="https://iskolbin.github.io/ccas/noc">Goto SEC site(Russian)</a>
 
 

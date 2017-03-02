@@ -6,6 +6,7 @@ permalink: /employees/
 {% for empl in site.data.employees %}
  {% assign name = empl[0] %}
  {% assign emp = empl[1] %}
+ {% unless emp.former %}
  <a name="{{ name }}"></a>
  <h3>
  {% if emp.fullname %}
@@ -31,4 +32,5 @@ permalink: /employees/
   <p>{{site.data.bio[name].detailed}}</p>
  {% endif %} 
  ---
+ {% endunless %}
 {% endfor %}

@@ -136,7 +136,7 @@
 				"surname": "Gavrilov",
 				"firstname": "Eugeniy",
 				"patronymic": "Sergeevich",
-				"position": "Junior Researcher"
+				"position": "Researcher"
 			}
 		}
 	},
@@ -195,7 +195,7 @@
 	 	"patronymic":	"Владимировна",
 		"degree": "к.ф-м.н.",
 		"position": "научный сотрудник",
-		
+		"former": true,
 		"translate":{
 		  "en": {
 				"surname": "Kirichenko",
@@ -211,7 +211,7 @@
 		"surname": "Журавлёв",
 		"firstname": "Андрей",
 		"patronymic": "Андреевич",
-		"position": "и.о. младшего научного сотрудника",
+		"position": "младший научный сотрудник",
 
 		"translate": {
 			"en": {
